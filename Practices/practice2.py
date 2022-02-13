@@ -20,10 +20,6 @@ def integer_checker(question):
 
             print(error)
 
-
-
-
-
 # Main routine
 
 age = integer_checker("Please enter your age: ")
