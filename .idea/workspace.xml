@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e056d2e2-4a7f-4dba-807a-0706a9a8fbe7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practices/average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practices/password_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/blood_donor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/blood_donor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/fizzbuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/grades.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/gst_cauculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/gst_cauculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/price_of_items.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/price_of_items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/while loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/while loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practices/for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practices/for_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +56,7 @@
       <recent name="$PROJECT_DIR$/Practices/numberfiles" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.for_loop">
+  <component name="RunManager" selected="Python.fizzbuzz">
     <configuration name="average" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fizzbuzz" />
         <item itemvalue="Python.for_loop" />
         <item itemvalue="Python.password_v2" />
         <item itemvalue="Python.average" />
         <item itemvalue="Python.password" />
-        <item itemvalue="Python.fizzbuzz" />
       </list>
     </recent_temporary>
   </component>
