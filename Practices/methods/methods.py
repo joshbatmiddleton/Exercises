@@ -1,7 +1,5 @@
-fruit = ["apple", "pineapple", "cherry"]
-# fruit.clear()
-# print(fruit)
-fruit2 = fruit.copy()
-fruit.pop()
-print(fruit)
-print(fruit2)
+list = [4, 2, 3]
+list.append(True)
+list.insert(4, False)
+value = list.pop(3)
+print()
