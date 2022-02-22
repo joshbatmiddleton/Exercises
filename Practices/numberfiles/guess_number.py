@@ -15,7 +15,7 @@ while mode != "H" and mode != "M" and mode != "E":
 
 guess = int(input("Guess the number: "))
 while guess != number and count < num_guesses:
-    
+
     count += 1
     if guess < number:
         guess = int(input("That's too low, try again: "))
