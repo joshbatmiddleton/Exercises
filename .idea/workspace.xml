@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e056d2e2-4a7f-4dba-807a-0706a9a8fbe7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Practices/methods/clear_method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +54,14 @@
       <recent name="$PROJECT_DIR$/Practices" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practices/methods" />
       <recent name="$PROJECT_DIR$/Practices/loops" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/Practices/numberfiles" />
       <recent name="$PROJECT_DIR$/Practices/password" />
-      <recent name="$PROJECT_DIR$/Practices" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lists">
+  <component name="RunManager" selected="Python.clear_method">
     <configuration name="TOTY_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="clear_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices/numberfiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices/methods" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/numberfiles/fizzbuzz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/methods/clear_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.clear_method" />
         <item itemvalue="Python.lists" />
         <item itemvalue="Python.TOTY_number" />
         <item itemvalue="Python.guess_number" />
         <item itemvalue="Python.price_of_items" />
-        <item itemvalue="Python.fizzbuzz" />
       </list>
     </recent_temporary>
   </component>
