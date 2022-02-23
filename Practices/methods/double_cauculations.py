@@ -7,7 +7,7 @@ def calculate_half(amount):
     half = amount / 2
     return half
 
-def calculate_ten_more
+def calculate_ten_more(amount):
     ten_more = amount + 10
     return ten_more
 # Main Routine
