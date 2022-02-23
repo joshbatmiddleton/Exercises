@@ -6,3 +6,5 @@ def say_hello(first_name, family_name):
 name = input("What is your name? ")
 other = input("What is your last name? ")
 print(say_hello(name, other))
+
+# End of code
