@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e056d2e2-4a7f-4dba-807a-0706a9a8fbe7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Practices/loops/for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/loops/for_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/loops/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/loops/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/loops/while loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/loops/while loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/methods/double_cauculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/methods/double_cauculations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/methods/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/methods/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/methods/methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/methods/methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/average.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/numberfiles/average.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/blood_donor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/numberfiles/blood_donor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/numberfiles/fizzbuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/numberfiles/grades.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/gst_cauculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/numberfiles/gst_cauculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/numberfiles/guess_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/numberfiles/guess_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/password/password.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/password/password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/password/password_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/password/password_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/practice2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/practice3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/Practices/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Folder/Practices/practice2.py" afterDir="false" />
-    </list>
+    <list default="true" id="e056d2e2-4a7f-4dba-807a-0706a9a8fbe7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +30,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main Folder/Practices" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,5 +45,16 @@
       <updated>1644285761077</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
